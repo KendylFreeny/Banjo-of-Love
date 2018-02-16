@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 43: Line is indented, but the preceding hide statement statement does not expect a block. Please check this line's indentation.
+    n "Sadness. Pain. Lackluster. "
+    ^
+
+Ren'Py Version: Ren'Py 6.99.14.1.3218
+Sat Feb 10 01:04:52 2018
